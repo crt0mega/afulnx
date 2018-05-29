@@ -13,6 +13,7 @@
 #include <linux/vmalloc.h>
 #include <linux/mman.h>
 #include <linux/slab.h>
+#include <linux/uaccess.h>
 #include <asm/io.h>
 #include <asm/uaccess.h>
 
