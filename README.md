@@ -1,6 +1,10 @@
 # AMI Firmware Update Utility for Linux - by AMI
 This version fixes the compiler errors and therefore enables it to run on newer kernels.
 
+# Disclaimer
+
+**This tool is deprecated! Please use this tool [https://github.com/Zibri/afulnx](https://github.com/Zibri/afulnx).**
+
 # Installation
 Download the binary for this tool [here](http://domoticx.com/bios-tool-ami-flasher-software/) and move afulnx_64 inside the afulnx64 folder.
 Go into the 64/32 Bit directory and run:
