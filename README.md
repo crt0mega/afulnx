@@ -3,7 +3,7 @@ This version fixes the compiler errors and therefore enables it to run on newer 
 
 # Disclaimer
 
-**This tool is deprecated! Please use this tool [https://github.com/Zibri/afulnx](https://github.com/Zibri/afulnx).**
+**This tool is deprecated! Please use [https://github.com/Zibri/afulnx](https://github.com/Zibri/afulnx) instead.**
 
 # Installation
 Download the binary for this tool [here](http://domoticx.com/bios-tool-ami-flasher-software/) and move afulnx_64 inside the afulnx64 folder.
